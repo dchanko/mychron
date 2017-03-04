@@ -1,5 +1,5 @@
-# js-starter
-JavaScript project starter based on the Pluralsight course "Building a JavaScript Development Environment".
+# mychron
+Tiny time management tool.
 
 [![Build Status](https://travis-ci.org/dchanko/js-starter.svg?branch=master)](https://travis-ci.org/dchanko/js-starter)
 
